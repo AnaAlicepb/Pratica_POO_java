@@ -33,7 +33,6 @@
     <p>
         O projeto "Gerenciamento de Empregados" é uma aplicação em Java que utiliza os princípios da Programação Orientada a Objetos (POO) para gerenciar informações de diferentes tipos de empregados: assalariados, comissionados e horistas. A aplicação permite calcular e exibir os vencimentos de cada tipo de empregado de acordo com suas características específicas.
     </p>
-
     <p>
         Proposta de Valor: Este programa pode ser utilizado por empresas para gerenciar e calcular os vencimentos de seus empregados de forma eficiente, considerando diferentes tipos de contratos de trabalho.
     </p>
