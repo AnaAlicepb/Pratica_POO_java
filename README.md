@@ -6,14 +6,13 @@
     <meta name="description" content="Gerenciamento de Empregados">
     <meta name="keywords" content="Java, POO, Empregados, Assalariado, Comissionado, Horista">
     <meta name="author" content="Ana Alice Rodrigues">
-
 </head>
 <body>
 
 <header>
     <h1>Gerenciamento de Empregados</h1>
-    <img src="./img/empregado.png" alt="Imagem Principal" width="300" height="auto">
-    <img src="./img/diagrama.png" alt="Diagrama de Classes" width="300" height="auto">
+    <img src="/img/empregado.png" alt="Imagem Principal" width="300" height="auto">
+    <img src="/img/diagrama.png" alt="Diagrama de Classes" width="300" height="auto">
 </header>
 
 <details>
