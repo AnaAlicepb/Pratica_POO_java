@@ -11,8 +11,8 @@
 
 <header>
     <h1>Gerenciamento de Empregados</h1>
-    <img src="/img/empregado.png" alt="Imagem Principal" width="300" height="auto">
-    <img src="/img/diagrama.png" alt="Diagrama de Classes" width="300" height="auto">
+     <img src="img/empregado.png" alt="Imagem Principal" width="300" height="auto">
+     <img src="img/diagrama.png" alt="Diagrama de Classes" width="300" height="auto">
 </header>
 
 <details>
